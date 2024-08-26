@@ -1,0 +1,15 @@
+{
+    "status": true,
+    "message": "berhasil fetch data",
+    "data": [
+        {
+            "name": "agung saputra"
+        },
+        {
+            "name": "putri intan utami"
+        },
+        {
+            "name": "agung intan saputri"
+        }
+    ]
+}
